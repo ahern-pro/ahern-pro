@@ -27,6 +27,9 @@ jobs:
         uses: EndBug/add-and-commit@v7.2.1
         with:
           branch: master
-          message: 'Generate Snake SVG by Github Action' 
+          message: 'Generate Snake SVG by Github Action'
+          default_author: github_actions
+          author_name: 'github-actions[bot]'
+          author_email: '41898282+github-actions[bot]@users.noreply.github.com'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
