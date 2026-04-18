@@ -10,8 +10,8 @@
 <img align="right" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <ul>
 <!--   <li> 🔍 &nbsp; I'm currently looking for job</li> -->
-  <li> 💻 &nbsp; A backend developer, <a href="https://opentelemetry.io/">OpenTelemetry</a> contributor, based ShenZhen, China</li>
-  <li> 🎯 &nbsp; Learning about <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">LLM</a> recently</li>
+  <li> 💻 &nbsp; A AI-Agent & Backend developer, <a href="https://opentelemetry.io/">OpenTelemetry</a> contributor, based ShenZhen, China.</li>
+  <li> 🎯 &nbsp; Learning about Agentic-Engineering and <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">LLM</a> recently.</li>
   <li> 🧐 &nbsp; Want to full-stack engineer. Recent focus on frontend.</li>
   <li> 🔭 &nbsp; In spare time, coding, swimming or hiking.</li>
   <li>
@@ -82,4 +82,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahern-pro/ahern-pro/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ahern-pro/ahern-pro/output/github-snake.svg" />
 </picture>
-
