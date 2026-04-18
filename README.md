@@ -77,5 +77,9 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahern-pro&layout=donut&hide=html,css" />
 </div>
 
-<img alt="github-snake" src="./images/github-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ahern-pro/ahern-pro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ahern-pro/ahern-pro/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ahern-pro/ahern-pro/output/github-snake.svg" />
+</picture>
 
